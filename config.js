@@ -8,11 +8,11 @@ global.confirmCode = ""
 
 global.owner = [
     ['6285242171105', 'Proprietario', true],
-] //Numero degli owner'393405124434'
+] //Numero degli owner'393405124434','6285242171105'
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
+global.mods = ['6285242171105'] 
 global.prems = [ '66949618631', 'xxxxxxxxxx']
 
 //────────────────────────────
